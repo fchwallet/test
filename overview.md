@@ -1,6 +1,6 @@
 # the primary testcase
 
-### 平台
+### 平台([tx](./tx.md))
 ```
 Android
 iOS
