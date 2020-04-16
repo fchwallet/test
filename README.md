@@ -1,4 +1,4 @@
 # test
-test case for fchwallet
+test case for blockchain wallet
 
 read the [overview](./overview.md) first
