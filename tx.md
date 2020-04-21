@@ -4,6 +4,8 @@
 ### spv sync data
 ```
 1. node reject 
+   may be node banned. (./freecash-cli listbanned) 
+   the beter way,let the user choose one node to connected.
 ```
 
 
