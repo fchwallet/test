@@ -11,8 +11,8 @@
 
 ### send tx 
 ```
-1. decimal point
-sp return 6 precision, actually utxo is 8 precision,    
+1. decimal precision
+sp return 6 decimal precision, actually utxo is 8 decimal precision,    
 ```
 
 
